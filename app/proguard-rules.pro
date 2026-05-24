@@ -1,0 +1,3 @@
+-keep class com.nammashasane.data.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*

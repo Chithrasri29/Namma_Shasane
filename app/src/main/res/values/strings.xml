@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma Shasane</string>
+    <string name="app_tagline">Karnataka\'s Living History</string>
+
+    <!-- Onboarding -->
+    <string name="onboard_1_title">Discover Inscriptions</string>
+    <string name="onboard_1_desc">Explore ancient Shasanas (inscriptions) found on temple walls and village stones across Karnataka.</string>
+    <string name="onboard_2_title">Tag &amp; Translate</string>
+    <string name="onboard_2_desc">Photograph an inscription, add it to our map, and get an AI-powered translation in modern Kannada.</string>
+    <string name="onboard_3_title">Preserve History</string>
+    <string name="onboard_3_desc">Report damaged or at-risk stones so we can protect Karnataka\'s heritage for future generations.</string>
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <!-- Home -->
+    <string name="find_shasane">Find a Shasane</string>
+    <string name="photo_tag">Photo Tag</string>
+    <string name="story_view">Story View</string>
+    <string name="preservation_alert">Preservation Alert</string>
+    <string name="nearby_inscriptions">Nearby Inscriptions</string>
+    <string name="recent_discoveries">Recent Discoveries</string>
+
+    <!-- Map -->
+    <string name="map_title">Heritage Map</string>
+    <string name="loading_map">Loading map…</string>
+    <string name="no_location_permission">Location permission needed to show nearby inscriptions.</string>
+
+    <!-- Photo Tag -->
+    <string name="photo_tag_title">Tag an Inscription</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_gallery">Choose from Gallery</string>
+    <string name="add_location">Add Location</string>
+    <string name="submit_tag">Add to Map</string>
+    <string name="inscription_name">Inscription Name (Optional)</string>
+    <string name="notes">Notes</string>
+    <string name="uploading">Uploading…</string>
+    <string name="upload_success">Added to map successfully!</string>
+
+    <!-- Story View -->
+    <string name="story_title">Inscription Story</string>
+    <string name="translating">Decoding inscription…</string>
+    <string name="translation_label">Modern Kannada Translation</string>
+    <string name="dynasty_label">Dynasty / King</string>
+    <string name="period_label">Period</string>
+    <string name="gift_law_label">Gift / Law Recorded</string>
+
+    <!-- Preservation Alert -->
+    <string name="alert_title">Report Damaged Shasane</string>
+    <string name="damage_type">Type of Damage</string>
+    <string name="painted_over">Painted Over</string>
+    <string name="broken">Broken / Cracked</string>
+    <string name="buried">Buried / Hidden</string>
+    <string name="other_damage">Other</string>
+    <string name="submit_alert">Submit Report</string>
+    <string name="alert_success">Report submitted. Thank you for protecting our heritage!</string>
+
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
